@@ -1,4 +1,4 @@
-import Encryption from "../components/encryption/Encryption";
+import Encryption from "../components/Encryption/Encryption";
 
 const EncryptPage = () => {
   return (
