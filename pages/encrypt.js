@@ -1,9 +1,9 @@
-import Encrypt from "../components/encryption/encrypt";
+import Encryption from "../components/encryption/Encryption";
 
 const EncryptPage = () => {
   return (
     <div className="container max-w-screen-lg mx-auto pb-6">
-      <Encrypt />
+      <Encryption />
     </div>
   );
 };
